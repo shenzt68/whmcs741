@@ -145,7 +145,7 @@ class License
                 $results["status"] = "Active";
                 $results["key"] = $this->licensekey;
                 $results["registeredname"] = $whmcs->get_config("CompanyName");
-                $results["productname"] = "WHMCS 7.4.2 - Nulled By Jonvi";
+                $results["productname"] = "WHMCS 7.4.1 - Nulled By Jonvi";
                 $results["productid"] = "5";
                 $results["billingcycle"] = "One Time";
                 $results["validdomains"] = $this->getHostDomain();
